@@ -1,0 +1,8 @@
+Deixar responsivo
+implementar carrosel nos games
+    lib: keen-slider
+validação do form
+    lib: react hook form
+        zod
+autenticação com o discord
+    logar na app com o discord

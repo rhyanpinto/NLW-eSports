@@ -1,0 +1,3 @@
+notificação backend
+    lib: expo push notifications
+Integração discord
